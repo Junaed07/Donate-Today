@@ -8,6 +8,8 @@ body {
 .first-section {
     display: flex;
     margin-bottom: 40px;
+    justify-content: space-between;
+    padding-left: 10%;
 }
 
 .one {

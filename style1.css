@@ -1,0 +1,5 @@
+.one-by-three {
+    display: flex;
+    padding-left: 5%;
+    justify-content: space-evenly;
+}
